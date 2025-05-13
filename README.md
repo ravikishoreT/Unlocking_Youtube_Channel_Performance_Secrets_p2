@@ -1,6 +1,6 @@
 # Unlocking_Youtube_Channel_Performance_Secrets_p2
 ## Project Overview
-#### Project Tittle : Unlocking Youtunbe Channel Performance Secrets
+#### Project Title : Unlocking Youtunbe Channel Performance Secrets
 #### Level : Intermediate
 #### Tools : Visual Studio, Jupyter Notebook, Excel.
 #### Languages : Python
